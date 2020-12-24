@@ -1,5 +1,5 @@
 for i in range(7):
-    for j in [1, 5, 7, 9]:
+    for j in [1, 5, 7, 9, 10, 13]:
         print(f'I\'ve been running for {i, j} times')
 
 
